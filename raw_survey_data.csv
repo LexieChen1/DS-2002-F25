@@ -1,0 +1,6 @@
+student_id,major,GPA,is_cs_major,credits_taken
+101,Commerce,3.0,False,10.5
+102,Computer Science,4,Yes,11.5
+103,Psychology,2.5,No,12.5
+104,Computer Science,2,True,13.0
+105,Computer Science,3.5,True,9.5
