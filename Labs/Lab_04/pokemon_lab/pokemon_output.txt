@@ -1,0 +1,11 @@
+# 1. Run the update script (triggers test() function by default)
+Running update_portfolio.py in TEST mode...
+Warning: Missing columns from merged data: ['card_name', 'card_number', 'set_id']
+Portfolio successfully saved to test_card_portfolio.csv
+# 2. Run the summary script (triggers test() function by default)
+Test complete.
+
+--- Adding New Card Set ---
+Enter the card set ID (base0, base2): base3
+Fetching card data for set: base3 ...
+
